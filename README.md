@@ -1,4 +1,4 @@
-# Flask-Mail
+# Flask-Mail + Basic Validations
 Python Flask app for sending mail using Gmail
 
 
