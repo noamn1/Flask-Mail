@@ -3,7 +3,7 @@ click==7.1.2
 Flask==1.1.2
 Flask-Mail==0.9.1
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 python-decouple==3.3
 validate-email==1.3
